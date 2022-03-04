@@ -41,6 +41,9 @@ header{
     color: #ffffff;
     border: none;
 }
+.link-btn:hover{
+    background-color: skyblue;
+}
 .link-btn img{
     width: 24px;
     margin-left: 8px;
@@ -48,6 +51,9 @@ header{
 }
 .ad-img img{
     width: 100%;
+}
+.ad-img img:hover{
+    transform: rotate(40deg);
 }
 
 /* -------------players------------ */
